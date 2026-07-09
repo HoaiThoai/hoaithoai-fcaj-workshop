@@ -7,7 +7,7 @@ pre: " <b> 1. </b> "
 ---
 
 {{% notice note %}}
-📌 **Info:** Nhật ký học tập và thực hành trong suốt 12 tuần thực tập tại công ty, từ 20/04/2026 đến 11/07/2026.
+📌 **Info:** Nhật ký học tập và thực hành trong suốt 12 tuần thực tập tại công ty, từ 17/04/2026 đến 10/07/2026.
 {{% /notice %}}
 
 Trong **12 tuần thực tập**, mình đã học lý thuyết và thực hành các dịch vụ AWS từ nền tảng đến nâng cao, hoàn thiện các bài Lab thực chiến, và hoàn thành đồ án cuối kỳ xây dựng hệ thống **Voice-Driven Construction Management System (VDCMS)** ứng dụng Cloud-Native & AI trên AWS.
