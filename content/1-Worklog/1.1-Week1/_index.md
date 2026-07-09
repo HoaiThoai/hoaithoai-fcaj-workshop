@@ -21,9 +21,9 @@ pre: "<b> 1.1. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | - Set up AWS Free Tier / Paid Plan account.<br>- Explore the First Cloud Journey 2025 roadmap. | 20/04/2026 | 20/04/2026 | FCJ Portal |
+| 1 | - Set up AWS Free Tier / Paid Plan account.<br>- Explore the First Cloud Journey 2025 roadmap. | 20/04/2026 | 20/04/2026 |  |
 | 2-4 | - Study Module 1: Introduction to AWS.<br>- Learn about: Compute, Storage, Networking, Database, and Amazon Q. | 21/04/2026 | 23/04/2026 | [Video Module 01-01](https://www.youtube.com/watch?v=qVCF7UjYC5s) |
-| 5-6 | - **Hands-on (Explore AWS):**<br>&emsp;+ Configure AWS Budgets.<br>&emsp;+ Launch & Terminate EC2 Instance.<br>&emsp;+ Deploy Serverless Web App with Lambda.<br>&emsp;+ Configure Amazon Bedrock (Service Quotas).<br>&emsp;+ Create & Delete Aurora RDS Database. | 24/04/2026 | 26/04/2026 | AWS Console |
+| 5-6 | - **Hands-on (Explore AWS):**<br>&emsp;+ Configure AWS Budgets.<br>&emsp;+ Launch & Terminate EC2 Instance.<br>&emsp;+ Deploy Serverless Web App with Lambda.<br>&emsp;+ Configure Amazon Bedrock (Service Quotas).<br>&emsp;+ Create & Delete Aurora RDS Database. | 24/04/2026 | 26/04/2026 |  |
 
 ### Week 1 Achievements & Learnings:
 
