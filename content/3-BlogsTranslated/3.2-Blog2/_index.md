@@ -26,7 +26,6 @@ In this model, the source database is called the **publisher**, and the database
 
 The publisher creates a **publication** to define which data will be sent. The subscriber creates a **subscription** to connect and receive changed data through the **WAL stream**.
 
-> *Figure 1. Logical replication between Publisher and Subscriber on Amazon RDS for PostgreSQL 18.*
 
 This model is very suitable when data needs to be synchronized between different PostgreSQL instances, especially in **RDS** or **Aurora** environments.
 
