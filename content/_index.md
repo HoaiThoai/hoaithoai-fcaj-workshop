@@ -8,6 +8,10 @@ chapter: false
     
 # Internship Report
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a3e546d5446867734fc0163a701fa75cf557f6c5
 ### Student Information:
 &emsp; **Full Name:** Nguyen Hoai Thoai
 
