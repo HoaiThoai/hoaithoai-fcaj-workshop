@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2024-01-01
+date: 2026-07-09
 weight: 1
 chapter: false
 ---
@@ -8,10 +8,7 @@ chapter: false
     
 # Internship Report
 
-<<<<<<< HEAD
-=======
 
->>>>>>> a3e546d5446867734fc0163a701fa75cf557f6c5
 ### Student Information:
 &emsp; **Full Name:** Nguyen Hoai Thoai
 
