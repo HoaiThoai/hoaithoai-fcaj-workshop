@@ -26,7 +26,6 @@ Trong mô hình này, database nguồn gọi là **publisher**, còn database nh
 
 Publisher tạo **publication** để xác định dữ liệu nào sẽ được gửi đi. Subscriber tạo **subscription** để kết nối và nhận dữ liệu thay đổi thông qua **WAL stream**.
 
-> *Hình 1. Logical replication giữa Publisher và Subscriber trên Amazon RDS for PostgreSQL 18.*
 
 Mô hình này rất phù hợp khi cần đồng bộ dữ liệu giữa các PostgreSQL instance khác nhau, đặc biệt trong môi trường **RDS** hoặc **Aurora**.
 
