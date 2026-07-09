@@ -1,13 +1,13 @@
 ---
 title: "Worklog"
-date: 2026-04-20
+date: 2026-04-17
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
 
 {{% notice note %}}
-📌 **Info:** Learning and hands-on journal across 12 internship weeks, from 20/04/2026 to 11/07/2026.
+📌 **Info:** Learning and hands-on journal across 12 internship weeks, from 17/04/2026 to 10/07/2026.
 {{% /notice %}}
 
 Over **12 internship weeks**, I studied and practiced AWS services from fundamentals to advanced topics, completed hands-on Labs, and built the **Voice-Driven Construction Management System (VDCMS)** capstone project using Cloud-Native architecture and AI on AWS.
