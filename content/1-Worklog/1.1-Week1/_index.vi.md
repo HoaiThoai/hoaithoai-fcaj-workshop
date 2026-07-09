@@ -21,9 +21,9 @@ pre: "<b> 1.1. </b>"
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | - Thiết lập tài khoản AWS Free Tier / Paid Plan.<br>- Tìm hiểu lộ trình First Cloud Journey 2024. | 20/04/2026 | 20/04/2026 | FCJ Portal |
+| 1 | - Thiết lập tài khoản AWS Free Tier / Paid Plan.<br>- Tìm hiểu lộ trình First Cloud Journey 2024. | 20/04/2026 | 20/04/2026 |  |
 | 2-4 | - Học Module 1: Giới thiệu về AWS.<br>- Tìm hiểu về: Compute, Storage, Networking, Database, và Amazon Q. | 21/04/2026 | 23/04/2026 | [Video Module 01-01](https://www.youtube.com/watch?v=qVCF7UjYC5s) |
-| 5-6 | - **Thực hành (Khám phá AWS):**<br>&emsp;+ Cấu hình AWS Budgets.<br>&emsp;+ Khởi tạo & Xóa máy chủ EC2.<br>&emsp;+ Triển khai Serverless Web App với Lambda.<br>&emsp;+ Cấu hình Amazon Bedrock (Service Quotas).<br>&emsp;+ Tạo & Xóa cơ sở dữ liệu Aurora RDS. | 24/04/2026 | 26/04/2026 | AWS Console |
+| 5-6 | - **Thực hành (Khám phá AWS):**<br>&emsp;+ Cấu hình AWS Budgets.<br>&emsp;+ Khởi tạo & Xóa máy chủ EC2.<br>&emsp;+ Triển khai Serverless Web App với Lambda.<br>&emsp;+ Cấu hình Amazon Bedrock (Service Quotas).<br>&emsp;+ Tạo & Xóa cơ sở dữ liệu Aurora RDS. | 24/04/2026 | 26/04/2026 |  |
 
 ### Kết quả đạt được & Kiến thức thu nhận tuần 1:
 
